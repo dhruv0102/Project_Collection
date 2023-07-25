@@ -1,2 +1,2 @@
 # Project_Collection
-All the projects I have done 
+A collection of all the personal projects that I have completed
